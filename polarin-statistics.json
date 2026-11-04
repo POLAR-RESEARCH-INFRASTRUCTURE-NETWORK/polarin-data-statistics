@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-11-04T11:50:11.897527+00:00",
+  "source": "https://geonetwork.s4polarin.eu/polarin-catalogue-api/records",
+  "records_downloaded": 11382,
+  "total_records_reported": 11382,
+  "unique_uuids": 11382,
+  "records_with_data_available": 314,
+  "records_displayable": 113,
+  "distinct_ri_values": 17,
+  "with_spatial_extent": 11272,
+  "with_temporal_coverage": 0,
+  "with_doi": 690,
+  "by_location": {
+    "Arctic": 10834,
+    "Antarctic": 487,
+    "Global": 4
+  },
+  "by_ri": {
+    "RV Polarstern, DE": 646,
+    "CCGS Amundsen, CA": 369,
+    "Neumayer Station III, DE": 186,
+    "Ny-Ålesund Research Station – Sverdrup, NO": 84,
+    "Zackenberg Research Station, DK": 74,
+    "Dirigibile Italia": 67,
+    "Concordia Station, FR+IT": 67,
+    "NERC: Ny-Ålesund Research Station – Harland-Cox Huset, UK": 21,
+    "Arctic Station, DK": 10,
+    "AWIPEV Base, DE+FR": 4,
+    "Mario Zucchelli Station, IT": 4,
+    "RVIB Laura Bassi, IT": 4,
+    "Polish Polar Station Hornsund, PL": 2,
+    "MV Le Commandant Charcot, FR": 2,
+    "Barrow Arctic Research Center, US": 2,
+    "Whapmagoostui-Kuujjuarapik Research Complex, CA": 1,
+    "Troll Research Station, NO": 1
+  },
+  "by_ri_type": {
+    "Vessels": 1017,
+    "Stations": 523
+  },
+  "by_earth_system": {
+    "Snow": 9731,
+    "Oceans": 1026,
+    "Atmosphere": 863,
+    "Marine ecosystem": 235,
+    "Permafrost": 227,
+    "Terrestrial ecosystem": 198,
+    "Sea Ice": 190,
+    "Glaciers": 118,
+    "Ice sheet": 103,
+    "Ice Shelf": 100,
+    "Lake and rivers": 58
+  },
+  "by_related_parameters": {
+    "Ice related parameters": 10094,
+    "Marine related parameters": 1236,
+    "Atmosphere related parameters": 863
+  },
+  "by_layer_type": {
+    "Polarin metadata catalogue": 10955,
+    "Data layer": 314,
+    "Polarin metadata catalogue - virtual access": 113
+  }
+}
